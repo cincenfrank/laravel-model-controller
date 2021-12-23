@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+main .card {
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+main .card:hover {
+  transform: scale(1.15);
+}
+
+header {
+  margin-bottom: 50px;
+}
+
